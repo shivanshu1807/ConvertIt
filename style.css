@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+background: black;
+margin: 0 0 20px 0;
+padding: 10px;
+text-align: center;
+color: white;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #888888;
+  color: white;
+}
+
+#converter {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#result {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
